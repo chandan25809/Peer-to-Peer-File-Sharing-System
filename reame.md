@@ -140,12 +140,6 @@ Each peer generates a log file (e.g., `log_peer_<peerID>.log`). Logs include:
 
 ---
 
-## Video Demonstration
-
-Watch the system in action: [https://drive.google.com/file/d/12h21UvRlGdgop_CLqM_A8M3lXuRXCmkj/view?usp=sharing](#).
-
----
-
 ## Future Enhancements
 
 - Implement encryption for secure file transfers.
